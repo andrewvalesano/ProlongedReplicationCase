@@ -19,7 +19,7 @@ This repository holds code and data for the analysis of longitudinal specimens f
 
 # Notes
 
-Raw sequence reads are available at [INSERT HERE].
+Raw sequence reads are available at the Sequence Read Archive, BioProject accession PRJNA662589.
 
 # Contact
 
